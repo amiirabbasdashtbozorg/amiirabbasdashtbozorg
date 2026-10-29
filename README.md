@@ -1,7 +1,8 @@
-### Hi there, I'm امیرعباس 👋
+### Hi there, I'm Amirabbas! 👋
 
-⚡ **Software Engineering Student & Developer | Full-Stack & AI Enthusiast**  
-Passionate about building scalable web applications, RAG systems, and intelligent automation workflows.
+⚡ **I’m an Electrical Engineering student with a strong passion for programming, intelligent automation systems, and learning emerging technologies. I enjoy working on projects that combine creativity and logic, and I’m constantly seeking opportunities to improve my skills in software development, data analysis, and artificial intelligence.
+
+My goal is to become a professional developer contributing to projects that make a real impact on people’s lives. I believe in continuous learning, effective teamwork, and personal growth — and I’m always excited to take on new challenges that push my limits.
 
 ---
 
@@ -19,11 +20,3 @@ Passionate about building scalable web applications, RAG systems, and intelligen
 <a href="https://www.linkedin.com/in/amirabbas-dashtbozorg" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amiirabbasdashtbozorg&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
