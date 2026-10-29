@@ -1,8 +1,8 @@
 ### Hi there, I'm Amirabbas! 👋
 
-⚡ **I’m an Electrical Engineering student with a strong passion for programming, intelligent automation systems, and learning emerging technologies. I enjoy working on projects that combine creativity and logic, and I’m constantly seeking opportunities to improve my skills in software development, data analysis, and artificial intelligence.
+I'm an Electrical Engineering student with a strong passion for programming, intelligent automation systems, and learning emerging technologies. I enjoy working on projects that combine creativity and logic, and I'm constantly seeking opportunities to improve my skills in software development, data analysis, and artificial intelligence.
 
-My goal is to become a professional developer contributing to projects that make a real impact on people’s lives. I believe in continuous learning, effective teamwork, and personal growth — and I’m always excited to take on new challenges that push my limits.
+My goal is to become a professional developer contributing to projects that make a real impact on people's lives. I believe in continuous learning, effective teamwork, and personal growth — and I'm always excited to take on new challenges that push my limits.
 
 ---
 
