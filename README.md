@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there, I'm Amirabbas! 👋
 
-<!--
-**amiirabbasdashtbozorg/amiirabbasdashtbozorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Software Engineering Student & Developer | Full-Stack & AI Enthusiast.
+💻 Passionate about building scalable web applications, RAG systems, and intelligent automation workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **Programming & Core:** Python, TypeScript, JavaScript, SQL
+* **Web Development:** Next.js, React, Node.js, HTML/CSS
+* **AI & Data:** PyTorch, LangChain, RAG Systems, Qdrant, Vector Databases
+* **Tools & DevOps:** Docker, n8n, Git, GitHub, Linux
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=for-the-badge&logoColor=white)](https://www.linkedin.com/in/amirabbas-dashtbozorg)
+
+---
+ 
+📊 **GitHub Stats:**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amiirabbasdashtbozorg&show_icons=true&theme=radical)
